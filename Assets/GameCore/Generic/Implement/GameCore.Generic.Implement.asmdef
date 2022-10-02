@@ -1,0 +1,16 @@
+{
+    "name": "GameCore.Implement",
+    "rootNamespace": "",
+    "references": [
+        "GameCore.Infrastructure"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
