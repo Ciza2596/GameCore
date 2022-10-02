@@ -1,18 +1,19 @@
 {
   "name": "com.ciza.gamecore",
-  "displayName": "gamecore",
+  "displayName": "Ciza.GameCore",
   "description": "參考 https://github.com/L1247/rStarUtility 製作",
   "version": "0.0.1",
   "unity": "2021.3",
   "unityRelease": "10f1",
   "dependencies": {
     "com.svermeulen.extenject": "9.2.0-stcf3",
+    "com.cysharp.unitask": "2.3.1",
     "com.cysharp.messagepipe": "1.7.4",
     "com.cysharp.messagepipe.zenject": "1.7.4"
   },
   "author": {
-    "name": "ciza",
-    "email": "ciza2596@gmail.com",
+    "name": "Ciza",
+    "email": "Ciza2596@gmail.com",
     "url": "https://www.youtube.com/channel/UCSGlWqXN4O2T3fyIJSB9MCA"
   },
   "repository": {
