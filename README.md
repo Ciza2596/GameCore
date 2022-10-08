@@ -2,7 +2,7 @@
 
 ## add package from git URL
 ```
-https://github.com/L1247/RPG-Module.git?path=Assets/Modules
+https://github.com/Ciza2596/GameCore.git?path=Assets/GameCore
 ```
 
 ### Please follow the instrustions:
