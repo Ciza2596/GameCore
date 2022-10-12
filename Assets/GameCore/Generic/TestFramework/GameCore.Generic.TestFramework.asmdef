@@ -1,13 +1,21 @@
 {
     "name": "GameCore.Generic.TestFramework",
-    "rootNamespace": "",
-    "references": [],
+    "rootNamespace": "GameCore.Generic.TestFramework",
+    "references": [
+        "Zenject",
+        "MessagePipe",
+        "GameCore.Implement",
+        "GameCore.Infrastructure"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
-    "autoReferenced": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "NSubstitute.dll",
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
     "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": false

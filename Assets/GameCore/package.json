@@ -4,7 +4,7 @@
   "description": "參考 https://github.com/L1247/rStarUtility 製作",
   "version": "0.0.1",
   "unity": "2021.3",
-  "unityRelease": "10f1",
+  "unityRelease": "11f1",
   "dependencies": {
     "com.cysharp.messagepipe.zenject": "1.7.4",
     "com.cysharp.messagepipe": "1.7.4",

@@ -2,6 +2,9 @@
     "name": "GameCore.Implement",
     "rootNamespace": "",
     "references": [
+        "Zenject",
+        "MessagePipe",
+        "UniTask",
         "GameCore.Infrastructure"
     ],
     "includePlatforms": [],

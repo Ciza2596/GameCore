@@ -1,6 +1,6 @@
 {
     "name": "GameCore.Test",
-    "rootNamespace": "",
+    "rootNamespace": "GameCore.Test",
     "references": [],
     "includePlatforms": [
         "Editor"
